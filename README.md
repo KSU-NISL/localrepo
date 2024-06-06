@@ -1,3 +1,3 @@
-# LOcalRepo
-This is local Repo radme filegit status.
+# LocalRepo
+This is local Repo readme file.
 <br>Im Kunjan
